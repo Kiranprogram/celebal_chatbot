@@ -13,7 +13,7 @@ LLMs/embeddings via **OpenRouter**. Served as FastAPI microservices behind **ngi
 ## Quick start
 
 ```powershell
-cd d:\ChatBot_Kiran
+cd d:\celebal_chatbot
 copy .env.example .env
 # Set OPENROUTER_API_KEY and JWT_SECRET (optional: TAVILY_API_KEY for better web search)
 docker compose up --build
